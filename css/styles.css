@@ -5,6 +5,9 @@ body {
 button{
   align-items: center;
   margin: 5%;
+  width: 80%;
+  height: 6em;
+
 }
 
 a.text:active, /* активная/посещенная ссылка */
