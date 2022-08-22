@@ -4,16 +4,12 @@ body {
 
 button{
   align-items: center;
-  margin: 5%;
+  margin: 10% 20%;
 
-  width: 60%
+  width: 80%
 
 }
-form{
-  width: 80%;
-  height: 6em;
-  margin: 5%;
-}
+
 
 a.text:active, /* активная/посещенная ссылка */
 a.text:hover,  /* при наведении */
