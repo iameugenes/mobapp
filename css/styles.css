@@ -5,15 +5,14 @@ body {
 button{
   align-items: center;
   margin: 5%;
-  width: 80%;
-  height: 6em;
+
+  width: 60%
 
 }
-
 form{
   width: 80%;
   height: 6em;
-  margin: 10%;
+  margin: 5%;
 }
 
 a.text:active, /* активная/посещенная ссылка */
